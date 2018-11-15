@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/CheckboxLegend/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/CheckboxLegend/Controllers/HomeController.vb))
+* [_ChartPartial.cshtml](./CS/CheckboxLegend/Views/Home/_ChartPartial.cshtml)
+<!-- default file list end -->
 # How to preserve the Legend checkbox item state in an ASP.NET MVC application
 
 
