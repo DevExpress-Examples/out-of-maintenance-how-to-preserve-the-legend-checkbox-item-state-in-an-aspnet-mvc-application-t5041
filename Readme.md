@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to preserve the Legend checkbox item state in an ASP.NET MVC application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t504189)**
+**[[Run Online]](https://codecentral.devexpress.com/t504189/)**
 <!-- run online end -->
 
 
